@@ -1,0 +1,19 @@
+.city-tile {
+  padding: 10px;
+  border: 2px solid gray;
+  border-style: solid;
+  border-color: gray;
+  max-width: 170px;
+  .city-name{
+    text-align: center;
+  }
+
+  div {
+    img {
+      max-width: 150px;
+      max-height: 100px;
+      display: block ;
+      margin: auto;
+    }
+  }
+}
